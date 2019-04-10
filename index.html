@@ -20,10 +20,12 @@
   <!-- <script src="/navbar/dist/navbar/main.js"></script> -->
   <script src="patientDashboard/dist/patientDashboard/main.js"></script>
   <script src="patientSearch/dist/patientSearch/main.js"></script>
+  <script src="navbar/dist/navbar/main.js"></script>
   <script src="single-spa.config.js"></script>
   <script>
     console.log(window.location);
-    singleSpa.registerApplication('patientSearch', window.patientSearch.default, location => location.pathname.startsWith('/patientSearch'))
+    singleSpa.registerApplication('navbar', window.navbar.default, location => window.location.pathname.startsWith('/patientDashboard'));
+    singleSpa.registerApplication('patientSearch', window.patientSearch.default, location => location.pathname.startsWith('/patientSearch'));
     singleSpa.registerApplication('patientDashboard', window.patientDashboard.default, location => window.location.pathname.startsWith('/patientDashboard'));
     singleSpa.start()
   </script>
