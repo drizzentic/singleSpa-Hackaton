@@ -1,5 +1,5 @@
 {
-  "name": "app1",
+  "name": "patientDashboard",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -8,8 +8,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build:single-spa": "ng run app1:single-spa",
-    "serve:single-spa": "ng run app1:single-spa-serve"
+    "build:single-spa": "ng run patientDashboard:single-spa",
+    "serve:single-spa": "ng run patientDashboard:single-spa-serve"
   },
   "private": true,
   "dependencies": {
