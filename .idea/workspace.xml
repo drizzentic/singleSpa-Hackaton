@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21aa39a8-714f-4deb-97ee-34457eee60b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/single-spa-hackaton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single-spa.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/e2e/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/e2e/src/app.po.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/e2e/tsconfig.e2e.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/assets/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/main.single-spa.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/main.single-spa.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/src/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/src/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app1/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientDashboard/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/e2e/protractor.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/e2e/protractor.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/e2e/src/app.e2e-spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/e2e/src/app.po.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/e2e/src/app.po.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/e2e/tsconfig.e2e.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/assets/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/assets/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/browserslist" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/browserslist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/main.single-spa.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/main.single-spa.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/src/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/src/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app2/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/patientSearch/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/patientDashboard/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/single-spa.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="109" lean-forward="true" selection-start-line="6" selection-start-column="109" selection-end-line="6" selection-end-column="109" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/single-spa.config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="17" />
+    <option name="y" value="40" />
+    <option name="width" value="1435" />
+    <option name="height" value="823" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="single-spa-hackaton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="single-spa-hackaton" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21aa39a8-714f-4deb-97ee-34457eee60b4" name="Default Changelist" comment="" />
+      <created>1554884125443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554884125443</updated>
+      <workItem from="1554884126807" duration="391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="391000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24391988" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/patientDashboard/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-spa.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="109" lean-forward="true" selection-start-line="6" selection-start-column="109" selection-end-line="6" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
