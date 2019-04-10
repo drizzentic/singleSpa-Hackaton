@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "app2": {
+    "patientSearch": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "single-spa-angular:build",
           "options": {
-            "outputPath": "dist/app2",
+            "outputPath": "dist/patientSearch",
             "index": "src/index.html",
             "main": "src/main.single-spa.ts",
             "polyfills": "src/polyfills.ts",
@@ -58,18 +58,18 @@
         "serve": {
           "builder": "single-spa-angular:dev-server",
           "options": {
-            "browserTarget": "app2:single-spa"
+            "browserTarget": "patientSearch:single-spa"
           },
           "configurations": {
             "production": {
-              "browserTarget": "app2:build:production"
+              "browserTarget": "patientSearch:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "app2:build"
+            "browserTarget": "patientSearch:build"
           }
         },
         "test": {
@@ -104,7 +104,7 @@
         "single-spa": {
           "builder": "single-spa-angular:build",
           "options": {
-            "outputPath": "dist/app2",
+            "outputPath": "dist/patientSearch",
             "index": "src/index.html",
             "main": "src/main.single-spa.ts",
             "polyfills": "src/polyfills.ts",
@@ -149,17 +149,17 @@
         "single-spa-serve": {
           "builder": "single-spa-angular:dev-server",
           "options": {
-            "browserTarget": "app2:single-spa"
+            "browserTarget": "patientSearch:single-spa"
           },
           "configurations": {
             "production": {
-              "browserTarget": "app2:build:production"
+              "browserTarget": "patientSearch:build:production"
             }
           }
         }
       }
     },
-    "app2-e2e": {
+    "patientSearch-e2e": {
       "root": "e2e/",
       "projectType": "application",
       "prefix": "",
@@ -168,11 +168,11 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "app2:serve"
+            "devServerTarget": "patientSearch:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "app2:serve:production"
+              "devServerTarget": "patientSearch:serve:production"
             }
           }
         },
@@ -188,5 +188,5 @@
       }
     }
   },
-  "defaultProject": "app2"
+  "defaultProject": "patientSearch"
 }

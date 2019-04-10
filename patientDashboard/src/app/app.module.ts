@@ -15,7 +15,7 @@ import { APP_BASE_HREF } from '@angular/common';
     AppRoutingModule,
     BrowserAnimationsModule,
   ],
-  providers: [{provide: APP_BASE_HREF, useValue: '/app1'}],
+  providers: [{provide: APP_BASE_HREF, useValue: '/patientDashboard'}],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
