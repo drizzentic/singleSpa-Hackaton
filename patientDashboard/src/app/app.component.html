@@ -1,1 +1,12 @@
-PATIENT DASHBOARD
+<div class="patient-header" *ngIf="patient">
+    <div class="card">
+        <div class="card-body">
+            <div class="row">
+            <div class="col-md-2"><i class="fa fa-user"></i></div>
+            <h4 class="col-md-4 text-primary">{{patient.person.display}}</h4>
+            <h4 class="col-md-3 text-primary"> Age: {{patient.person.age}} </h4>
+            <h4 class="col-md-3 text-primary"> Gender: {{patient.person.gender}}</h4>
+            </div>
+        </div>
+      </div>
+</div>
