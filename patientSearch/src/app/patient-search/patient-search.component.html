@@ -1,0 +1,16 @@
+<div class="container">
+  <form class="search">
+    <input type="text" placeholder="Enter Name.." id="search" [(ngModel)]="searchString" name="search">
+    <button type="submit" (click)="findPatient()"><i class="fa fa-search"></i> Search</button>
+  </form>
+  <br><br>
+  <div class="panel panel-info" *ngIf="loadedPatients">
+    <div class="panel-heading">Patients Found</div>
+    <div class="panel-body">
+      <ul class="list-group" *ngIf="foundPatients">
+        <button type="button" class="list-group-item" (click)="selectPatient(patient)" *ngFor="let patient of foundPatients">{{ patient.display }}</button>
+      </ul>
+      <p *ngIf="!foundPatients">Patient Does Not Exist</p>
+    </div>
+  </div>
+</div>

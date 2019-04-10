@@ -13,7 +13,7 @@ if (environment.production) {
 
 export default singleSpaAngular({
   bootstrapFunction: () => platformBrowserDynamic().bootstrapModule(AppModule),
-  template: '<app2-root />',
+  template: '<app-root-patient-search />',
   Router,
   NgZone: NgZone,
 });
