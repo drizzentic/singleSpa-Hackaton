@@ -29,6 +29,7 @@
     singleSpa.registerApplication('patientSearch', window.patientSearch.default, location => location.pathname.startsWith('/patientSearch'));
     singleSpa.registerApplication('patientDashboard', window.patientDashboard.default, location => window.location.pathname.startsWith('/patientDashboard'));
     singleSpa.registerApplication('patientVitals', window.patientVitals.default, location => location.pathname.startsWith('/patientVitals'))
+    singleSpa.registerApplication('login', window.login.default, location => location.pathname.startsWith('/'))
     singleSpa.start()
   </script>
 </body>
