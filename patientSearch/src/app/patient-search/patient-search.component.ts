@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { PatientSearchService } from '../services/patient-search.service';
-
+import e from '../../../../event-bus';
 @Component({
   selector: 'app-patient-search',
   templateUrl: './patient-search.component.html',
@@ -27,8 +27,9 @@ export class PatientSearchComponent implements OnInit {
 
   public selectPatient(patient: any) {
     if (patient) {
+      e.emit('patient', patient);
       this.selectedPatient = patient;
-      window.location.href = 'http://localhost:4200/patientDashboard?patient=' + this.selectedPatient.uuid;
+      window.location.href = 'http://localhost:4200/patientDashboard';
     }
   }
 
