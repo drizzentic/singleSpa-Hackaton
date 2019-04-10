@@ -27,6 +27,10 @@ import { PocHttpInteceptor } from './http-interceptor';
     },
     PatientService
   ],
+<<<<<<< HEAD
+=======
+  providers: [{provide: APP_BASE_HREF, useValue: '/home'}],
+>>>>>>> add static login
   bootstrap: [AppComponent]
 })
 export class AppModule { }
